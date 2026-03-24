@@ -4,4 +4,4 @@ Welcome to this tutorial, where we’ll build a modern inventory management syst
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/03/build-modern-inventory-management.html
 
-![image_source](https://github.com/Kelvin-Data/inventory_management/blob/88374734c6876d8da3e56064d4f40d968bb45e8c/cover%20image.png)
+![image_source](https://github.com/Kelvin-Data/inventory_management/blob/7b995aade38b0dc9f3988e68caab8ad9ec5d39cc/Login_page.png)
